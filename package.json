@@ -1,7 +1,7 @@
 {
   "name": "libretaxi",
   "version": "0.1.0",
-  "description": "LibreTaxi (@libretaxi_bot)",
+  "description": "LibreTaxi (@P2P_Rides_Bot)",
   "main": "src/app.js",
   "dependencies": {},
   "devDependencies": {
@@ -45,14 +45,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ro31337/libretaxi.git"
+    "url": "git+https://github.com/tillo/libretaxi.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ro31337/libretaxi/issues"
+    "url": "https://github.com/tillo/libretaxi/issues"
   },
-  "homepage": "https://github.com/ro31337/libretaxi#readme",
+  "homepage": "https://github.com/tillo/libretaxi#readme",
   "ava": {
     "files": [
       "test/**/*-test.js"
