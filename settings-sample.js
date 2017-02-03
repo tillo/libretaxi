@@ -26,7 +26,7 @@ export default class Settings {
     this.TELEGRAM_TOKEN = '';
 
     // default language
-    this.DEFAULT_LANGUAGE = 'en';
+    this.DEFAULT_LANGUAGE = 'fr';
 
     // log file
     this.LOG_FILE = `${appRoot.path}/libretaxi.log`;
